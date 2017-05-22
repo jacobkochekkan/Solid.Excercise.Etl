@@ -1,0 +1,17 @@
+C:\Users\Jacob\documents\visual studio 2012\Projects\Solid.Excercise.Etl\Solid.Excercise.Etl.Tests\bin\Debug\Solid.Excercise.Etl.Tests.dll
+C:\Users\Jacob\documents\visual studio 2012\Projects\Solid.Excercise.Etl\Solid.Excercise.Etl.Tests\bin\Debug\Solid.Excercise.Etl.Tests.pdb
+C:\Users\Jacob\documents\visual studio 2012\Projects\Solid.Excercise.Etl\Solid.Excercise.Etl.Tests\obj\Debug\Solid.Excercise.Etl.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Jacob\documents\visual studio 2012\Projects\Solid.Excercise.Etl\Solid.Excercise.Etl.Tests\obj\Debug\Solid.Excercise.Etl.Tests.dll
+C:\Users\Jacob\documents\visual studio 2012\Projects\Solid.Excercise.Etl\Solid.Excercise.Etl.Tests\obj\Debug\Solid.Excercise.Etl.Tests.pdb
+C:\Users\Jacob\documents\visual studio 2012\Projects\Solid.Excercise.Etl\Solid.Excercise.Etl.Tests\bin\Debug\Ninject.dll
+C:\Users\Jacob\documents\visual studio 2012\Projects\Solid.Excercise.Etl\Solid.Excercise.Etl.Tests\bin\Debug\Solid.Excercise.Etl.exe
+C:\Users\Jacob\documents\visual studio 2012\Projects\Solid.Excercise.Etl\Solid.Excercise.Etl.Tests\bin\Debug\Dapper.dll
+C:\Users\Jacob\documents\visual studio 2012\Projects\Solid.Excercise.Etl\Solid.Excercise.Etl.Tests\bin\Debug\Solid.Excercise.Etl.pdb
+C:\Users\Jacob\documents\visual studio 2012\Projects\Solid.Excercise.Etl\Solid.Excercise.Etl.Tests\bin\Debug\Ninject.xml
+C:\Users\Jacob\documents\visual studio 2012\Projects\Solid.Excercise.Etl\Solid.Excercise.Etl.Tests\bin\Debug\Dapper.xml
+C:\Users\Jacob\documents\visual studio 2012\Projects\Solid.Excercise.Etl\Solid.Excercise.Etl.Tests\bin\Debug\FluentAssertions.Core.dll
+C:\Users\Jacob\documents\visual studio 2012\Projects\Solid.Excercise.Etl\Solid.Excercise.Etl.Tests\bin\Debug\FluentAssertions.dll
+C:\Users\Jacob\documents\visual studio 2012\Projects\Solid.Excercise.Etl\Solid.Excercise.Etl.Tests\bin\Debug\FluentAssertions.pdb
+C:\Users\Jacob\documents\visual studio 2012\Projects\Solid.Excercise.Etl\Solid.Excercise.Etl.Tests\bin\Debug\FluentAssertions.xml
+C:\Users\Jacob\documents\visual studio 2012\Projects\Solid.Excercise.Etl\Solid.Excercise.Etl.Tests\bin\Debug\FluentAssertions.Core.pdb
+C:\Users\Jacob\documents\visual studio 2012\Projects\Solid.Excercise.Etl\Solid.Excercise.Etl.Tests\bin\Debug\FluentAssertions.Core.xml
